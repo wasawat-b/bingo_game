@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/bingo_game/static/css/main.6fac14c4.css",
+    "main.js": "/bingo_game/static/js/main.d534df1d.js",
+    "static/js/787.f70f5675.chunk.js": "/bingo_game/static/js/787.f70f5675.chunk.js",
+    "static/media/disco_-_25001 (Original).mp4": "/bingo_game/static/media/disco_-_25001 (Original).f8bf2611f20e2e83ddee.mp4",
+    "static/media/Untitled-2.png": "/bingo_game/static/media/Untitled-2.9334ffc77e3284ea14b2.png",
+    "index.html": "/bingo_game/index.html",
+    "main.6fac14c4.css.map": "/bingo_game/static/css/main.6fac14c4.css.map",
+    "main.d534df1d.js.map": "/bingo_game/static/js/main.d534df1d.js.map",
+    "787.f70f5675.chunk.js.map": "/bingo_game/static/js/787.f70f5675.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6fac14c4.css",
+    "static/js/main.d534df1d.js"
+  ]
+}
